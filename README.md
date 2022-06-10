@@ -1,0 +1,1 @@
+# Codigo-Sistema-Automata-Senso-y-Monetoreo-del-secado-de-madera-en-conveccion-natural-y-forzada
